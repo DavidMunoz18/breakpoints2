@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+div{
+	border: solid black 2px ;
+	
+}
+.verde{
+	background-color: limegreen;
+}
+.rojo{
+	background-color: red;
+}
+.rosa{
+	background-color: deeppink;
+}
+.naranja{
+	background-color: coral;
+}
+.az{
+	background-color: blue;
+}
